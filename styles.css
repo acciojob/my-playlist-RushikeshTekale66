@@ -9,9 +9,11 @@
 	background-color:white;
 	border-radius:10px;
 	margin:30px;
+	padding:30px;
 }
 li{
 	list-style-type: none;
+	background-color:white;
 }
 a{
 	text-decoration-line:none;
