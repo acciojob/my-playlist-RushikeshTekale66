@@ -3,35 +3,6 @@
 	background-color:rgb(204, 204, 204);
 }
 
-
 .my-play{
-	border:2px solid black;
-	background-color:white;
-	border-radius:10px;
-	margin:30px;
-	padding:30px;
-}
-li{
-	list-style-type: none;
-	background-color:white;
-}
-a{
-	text-decoration-line:none;
-}
-
-.player{
-	border:2px solid black;
-	background-color:white;
-	border-radius:10px;
-}
-
-.player_one{
-	background-color: white;
-	padding:20px;
-	border-radius:10px;
-}
-.player_two{
-	background-color: white;
-	padding:20px;
-	border-radius:10px;
+	
 }
